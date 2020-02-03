@@ -1,0 +1,7 @@
+laravel 6.9
+https://www.youtube.com/watch?v=UUtuw6QPQMQ
+https://www.siddharthshukla.in/blog/how-to-send-mail-in-laravel-6/
+https://vsoft.com.vn/Blog/huong-dan-lay-mat-khau-ung-dung-mail-de-gui-mail-smtp-15.html
+
+config trong file .env
+chu y config MAIL_FROM_ADDRESS khong duoc de trong
